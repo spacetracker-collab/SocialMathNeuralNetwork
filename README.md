@@ -142,3 +142,7 @@ SUSTAINABILITY mean activation: 0.0603
 DISTORTION mean activation: 0.0684
 RECALIBRATION mean activation: 0.0298
 LEGACY mean activation: 0.0374
+
+https://read.amazon.in/kp/kshare?asin=B0GSVVFDJ1&id=it7tc7mnuzd73ko7cpchoiwm3q
+
+
